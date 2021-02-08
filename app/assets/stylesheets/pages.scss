@@ -1,0 +1,19 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+  text-align: center;
+  width: 987px;
+  margin: 200px;
+  background-color: rgb(250, 250, 250);
+}
+  
+body {
+  background-color: rgb(202, 207, 214);
+  margin: auto;
+  font-family: Open Sans;
+}
+    
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
